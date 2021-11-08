@@ -1,0 +1,7 @@
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\obj\Debug\張守仁_Q5.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\obj\Debug\張守仁_Q5.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\bin\Debug\張守仁_Q5.exe.config
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\bin\Debug\張守仁_Q5.exe
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\bin\Debug\張守仁_Q5.pdb
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\obj\Debug\張守仁_Q5.exe
+C:\Users\skirito\Desktop\2020_contest\張守仁_Q5\張守仁_Q5\obj\Debug\張守仁_Q5.pdb
