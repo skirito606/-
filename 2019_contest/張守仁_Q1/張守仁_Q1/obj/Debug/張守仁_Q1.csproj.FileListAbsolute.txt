@@ -1,0 +1,10 @@
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\bin\Debug\張守仁_Q1.exe.config
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\bin\Debug\張守仁_Q1.exe
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\bin\Debug\張守仁_Q1.pdb
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.Form1.resources
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.Properties.Resources.resources
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.csproj.GenerateResource.cache
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.exe
+C:\Users\skirito\Desktop\2019_contest\張守仁_Q1\張守仁_Q1\obj\Debug\張守仁_Q1.pdb
