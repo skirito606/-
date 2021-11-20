@@ -1,0 +1,17 @@
+int x=mouse.X,y=mouse.Y;
+int dx,dy;
+
+if(x%20>10)
+  dx=1;
+else
+  dx=0;
+if(y%20>10)
+  dy=1;
+else
+  dy=0;
+
+x=x/20+dx;
+y=y/20+dy;
+
+int [] data=new data[11,11];
+data[x,y]

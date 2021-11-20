@@ -1,0 +1,36 @@
+int w[9][9];    // adjacency matrix
+int d[9];       // 記錄起點到各個點的最短路徑長度
+int parent[9];  // 記錄各個點在最短路徑樹上的父親是誰
+bool visit[9];  // 記錄各個點是不是已在最短路徑樹之中
+ 
+void dijkstra(int source)
+{
+    for (int i=0; i<9; i++) visit[i] = false;
+    for (int i=0; i<9; i++) d[i] = 1e9;
+ 
+    d[source] = 0;		// 設定起點的最短路徑長度
+    parent[source] = source;	// 設定起點是樹根（父親為自己）
+ 
+    for (int k=0; k<9; k++)
+    {
+        int a = -1, b = -1, min = 1e9;
+        for (int i=0; i<9; i++)
+            if (!visit[i] && d[i] < min)
+            {
+                a = i;  // 記錄這一條邊
+                min = d[i];
+            }
+ 
+        if (a == -1) break;     // 起點有連通的最短路徑都已找完
+//      if (min == 1e9) break;  // 不連通即是最短路徑長度無限長
+        visit[a] = true;
+ 
+        // 以邊ab進行relaxation
+        for (b=0; b<9; b++)
+            if (!visit[b] && d[a] + w[a][b] < d[b])
+            {
+                d[b] = d[a] + w[a][b];
+                parent[b] = a;
+            }
+    }
+}

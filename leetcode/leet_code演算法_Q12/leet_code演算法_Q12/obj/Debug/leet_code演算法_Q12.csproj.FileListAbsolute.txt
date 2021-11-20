@@ -1,0 +1,7 @@
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\bin\Debug\leet_code演算法_Q12.exe.config
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\bin\Debug\leet_code演算法_Q12.exe
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\bin\Debug\leet_code演算法_Q12.pdb
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\obj\Debug\leet_code演算法_Q12.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\obj\Debug\leet_code演算法_Q12.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\obj\Debug\leet_code演算法_Q12.exe
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q12\leet_code演算法_Q12\obj\Debug\leet_code演算法_Q12.pdb

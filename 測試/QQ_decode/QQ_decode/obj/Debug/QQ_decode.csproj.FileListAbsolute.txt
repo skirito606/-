@@ -1,0 +1,7 @@
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\bin\Debug\QQ_decode.exe.config
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\bin\Debug\QQ_decode.exe
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\bin\Debug\QQ_decode.pdb
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\obj\Debug\QQ_decode.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\obj\Debug\QQ_decode.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\obj\Debug\QQ_decode.exe
+C:\Users\skirito\Desktop\測試\QQ_decode\QQ_decode\obj\Debug\QQ_decode.pdb

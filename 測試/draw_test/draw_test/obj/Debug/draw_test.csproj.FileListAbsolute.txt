@@ -1,0 +1,10 @@
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\bin\Debug\draw_test.exe.config
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\bin\Debug\draw_test.exe
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\bin\Debug\draw_test.pdb
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.Properties.Resources.resources
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.csproj.GenerateResource.cache
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.exe
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.pdb
+C:\Users\skirito\Desktop\測試\draw_test\draw_test\obj\Debug\draw_test.Form1.resources

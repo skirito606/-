@@ -1,0 +1,7 @@
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\obj\Debug\leet_code演算法_Q226.csproj.AssemblyReference.cache
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\obj\Debug\leet_code演算法_Q226.csproj.CoreCompileInputs.cache
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\bin\Debug\leet_code演算法_Q226.exe.config
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\bin\Debug\leet_code演算法_Q226.exe
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\bin\Debug\leet_code演算法_Q226.pdb
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\obj\Debug\leet_code演算法_Q226.exe
+C:\Users\skirito\Desktop\leetcode\leet_code演算法_Q226\leet_code演算法_Q226\obj\Debug\leet_code演算法_Q226.pdb
